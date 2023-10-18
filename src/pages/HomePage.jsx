@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import Home2 from '../components/Home2'
-import About from '../components/about'
+import About from '../components/About'
 import OtherLink from '../components/OtherLink';
 import Experience from "../components/Experience";
 
