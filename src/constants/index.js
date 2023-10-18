@@ -2,7 +2,7 @@ import img1 from "../assets/images/whole.jpg"
 import img2 from "../assets/images/laser.jpg"
 import img3 from "../assets/images/test_rig.jpg"
 import img4 from "../assets/images/cfd.png"
-import img5 from "../assets/images/fire-test.gif"
+// import img5 from "../assets/images/fire-test.gif"
 
 
 const experiences = [
@@ -36,16 +36,16 @@ const experiences = [
         // "",
        ],
     },
-    {
-      title: "Atmospheric hot firing test",
-      // company_name: "Meta",
-      icon: img5,
-      iconBg: "#E6DEDD",
-      // date: "Jan 2023 - Present",
-      points: [
-        "Atmospheric hot firing test of single set of combustor",
-       ],
-    },
+    // {
+    //   title: "Atmospheric hot firing test",
+    //   // company_name: "Meta",
+    //   // icon: img5,
+    //   iconBg: "#E6DEDD",
+    //   // date: "Jan 2023 - Present",
+    //   points: [
+    //     "Atmospheric hot firing test of single set of combustor",
+    //    ],
+    // },
 
     {
       title: "Realistic engine testing facilities",
@@ -86,11 +86,11 @@ const experiences = [
         titile:"test",
         image:img4
     },
-    {
-      id:6,
-      titile:"test",
-      image:img5
-  },
+  //   {
+  //     id:6,
+  //     titile:"test",
+  //     image:img5
+  // },
 ]
 
 
