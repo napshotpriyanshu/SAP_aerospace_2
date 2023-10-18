@@ -10,7 +10,7 @@ const OtherLink = () => {
                 <h1 className={styles.menu}>Explore More...</h1>
                 <div className={styles.cards}>
                     <LinkCard address={img} title='Gallery' link="/gallery"/>
-                    <LinkCard address={img} title='Achivements' link="/achivements"/>
+                    {/* <LinkCard address={img} title='Achivements' link="/achivements"/> */}
                     <LinkCard address={img} title='Teams' link="/teams"/>
 
                 </div>
