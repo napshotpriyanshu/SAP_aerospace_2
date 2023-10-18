@@ -14,7 +14,7 @@ import img_7 from "../assets/images/vikash.jpg";
 import img_8 from "../assets/images/vatsal.jpeg";
 import img_9 from "../assets/images/adrish.jpeg";
 import img_10 from "../assets/images/nivedita.jpg";
-import img_11 from "../assets/images/shivam.jpg";
+import img_11 from "../assets/images/shivam.png";
 import img_12 from "../assets/images/anshini.jpg";
 
 
